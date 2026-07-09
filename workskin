@@ -30,15 +30,16 @@
 }
 
 .article-box h1 {
-  font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
+  font-family: "Impact", "Bangers", "Anton", "Unlock", "Bowlby One", "Changa One", "Luckiest Guy", "Passion One", "Titan One", "Franklin Gothic", serif;
   font-size: 30px;
   text-transform: capitalize;
   font-variant: small-caps;
   font-weight: 100;
   font-style: italic;
+  background-color: lightgrey;
   color: #999999;
   margin-top: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
