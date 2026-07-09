@@ -4,7 +4,7 @@
   border-bottom: 1px #eeeeee solid;
 }
 
-article-img {
+#journalist-pfp {
   max-width: 90%;
   display: block;
   margin-left: auto;
@@ -23,13 +23,13 @@ article-img {
   margin-right: auto;
 }
 
-.article-box article-p {
+.article-box p {
   margin: 0px;
   padding: 0px;
   line-height: 1;
 }
 
-.article-box article-h1 {
+.article-box h1 {
   font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
   font-size: 4.2em;
   text-transform: capitalize;
@@ -43,11 +43,11 @@ article-img {
   text-align: center;
 }
 
-.article-box article-h1 .first-letter-big {
+.article-box h1 .first-letter-big {
   font-size: 1.44em;
 }
 
-.article-box article-h3 {
+.article-box h3 {
   font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
   text-align: justify;
   font-size: 2.16em;
@@ -68,7 +68,7 @@ article-img {
   width: 50px;
 }
 
-.article-box .article-menu .pic-author article-img {
+.article-box .article-menu .pic-author img {
   border-radius: 50%;
   width: 50px;
 }
@@ -86,7 +86,7 @@ article-img {
   display: block;
 }
 
-.article-box .article-menu .author-info article-p {
+.article-box .article-menu .author-info p {
   text-transform: uppercase;
   font-family: "verdana", sans-serif;
   font-size: 0.6em;
@@ -104,11 +104,11 @@ article-img {
   text-align: right;
 }
 
-.article-box .article-menu .social-icons article-p {
+.article-box .article-menu .social-icons p {
   line-height: 0;
 }
 
-.article-box .article-menu .social-icons article-img {
+.article-box .article-menu .social-icons img {
   width: 100px;
   height: auto;
 }
@@ -117,18 +117,18 @@ article-img {
   padding-top: 20px;
 }
 
-.article-box .article article-p {
+.article-box .article p {
   font-family: "verdana", sans-serif;
   text-align: justify;
   font-size: 0.84em;
   line-height: 1.8em;
 }
 
-.article-box .article article-p article-i {
+.article-box .article p i {
   font-style: italic;
 }
 
-.article-box .article article-p article-b {
+.article-box .article p b {
   font-style: bold;
 }
 
