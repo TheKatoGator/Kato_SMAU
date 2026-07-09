@@ -12,7 +12,7 @@
 }
 
 .article-box {
-  max-width: 50%;
+  max-width: 75%;
   color: #555555;
   padding: 20px;
   margin-top: 50px;
