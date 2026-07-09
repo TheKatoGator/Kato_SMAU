@@ -36,8 +36,8 @@
   font-variant: small-caps;
   font-weight: 100;
   font-style: italic;
-  background-color: lightgrey;
-  color: #999999;
+  background-color: #4427C4;
+  color: #EEFC14;
   margin-top: 10px;
   padding-bottom: 10px;
   text-align: center;
