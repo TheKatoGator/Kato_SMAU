@@ -30,14 +30,15 @@
 }
 
 .article-box h1 {
+  text-shadow: -1px 0 #e4cc01, 0 1px #e4cc01, 1px 0 #e4cc01, 0 -1px #e4cc01;
   font-family: "Impact", "Bangers", "Anton", "Unlock", "Bowlby One", "Changa One", "Luckiest Guy", "Passion One", "Titan One", "Franklin Gothic", serif;
   font-size: 30px;
   text-transform: capitalize;
   font-variant: small-caps;
   font-weight: 100;
   font-style: italic;
-  background-color: #4427C4;
-  color: #EEFC14;
+  background-color: #781800;
+  color: #172675;
   margin-top: 10px;
   padding-bottom: 10px;
   text-align: center;
