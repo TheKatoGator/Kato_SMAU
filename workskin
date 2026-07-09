@@ -31,7 +31,7 @@
 
 .article-box h1 {
   font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
-  font-size: 40px;
+  font-size: 50px;
   text-transform: capitalize;
   font-variant: small-caps;
   font-weight: 100;
@@ -44,12 +44,12 @@
 }
 
 .article-box h1 .first-letter-big {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .article-box h3 {
   font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 500;
   margin-top: 20px;
   color: #555555;
