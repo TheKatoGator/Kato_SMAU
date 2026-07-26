@@ -1338,6 +1338,25 @@ margin-left: 62px;
 z-index: 3;
 }
 
+#workskin .twt .headerdmicon1 {
+  width: 30px;
+  height: 30px;
+  vertical-align: top;
+  margin-top: -8px;
+  margin-left: 62px;
+  z-index: 5;
+}
+
+
+#workskin .twt .headerdmicon2 {
+  width: 30px;
+  height: 30px;
+  vertical-align: top;
+  margin-top: -8px;
+  margin-left: 70px;
+  z-index: 3;
+}
+
 
 #workskin .twt .iconqt {
 float: left;
@@ -1365,6 +1384,8 @@ z-index: 3;
 
 
 #workskin .twt .headerdmicon,
+#workskin .twt .headerdmicon1,
+#workskin .twt .headerdmicon2,
 #workskin .twt .iconqt,
 #workskin .twt .twtcircleicon,
 #workskin .twt .icondm {
